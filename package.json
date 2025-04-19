@@ -1,12 +1,10 @@
 {
   "name": "chat-app",
   "version": "1.0.0",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
+  "description": "A live chat app with video stream",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/your-repo.git"
   },
-  "dependencies": {
-    "express": "^4.18.2",
-    "socket.io": "^4.7.2"
-  }
+  "license": "MIT"
 }
